@@ -104,3 +104,10 @@ d. 255.255.255.0
 subred y de broadcast a la que pertenece el host?
 
 d. dirección = 192.168.85.128, broadcast 192.168.85.191
+
+
+
+#17. Una red clase C 192.168.1.0 /30, está dividida en subredes ¿cuántas 
+subredes y cuantos host por subred tendrá cada una?
+
+e. 2 subredes con 62 hosts
