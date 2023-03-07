@@ -83,3 +83,11 @@ los próximos años ¿Qué máscara se deberá utilizar para obtener un total de
 host por subred?
 
 c. 255.255.224.0
+
+
+
+#14. Una red clase B será dividida en 20 subredes a las que se sumaran 4 más en 
+los próximos años ¿Qué máscara se deberá utilizar para obtener un total de 2000 
+host por subred?
+
+a. /19 que permitiría hasta 8190 hosts por subred, lo que es más que suficiente para 2000 hosts por subred.
