@@ -118,3 +118,10 @@ e. 2 subredes con 62 hosts
 ¿Cuántos host y cuantas subredes son posibles?
 
 b. 128 subredes y 512 hosts
+
+
+
+#20. Una red clase B será dividida en subredes. ¿Qué máscara se deberá utilizar 
+para obtener un total de 500 host por subred?
+
+b. 255.255.248.0 que tiene 21 bits para la parte de red y 9 bits para la parte de host, lo que nos da 512 subredes y 510 hosts por subred.
