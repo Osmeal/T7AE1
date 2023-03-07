@@ -16,3 +16,15 @@ puedan establecer conectividad con Internet. Su ISP le ha asignado la dirección
 de subred debe utilizarse?
 
 C. 255.255.255.240
+
+2 elevado a 4 = 16 subredes
+2 elevado a 4 -2 = 14 host
+
+
+
+#3 . Una red está dividida en 8 subredes de una clase B. ¿Qué máscara de subred 
+se deberá utilizar si se pretende tener 2500 host por subred?
+
+B.255.255.240.0
+
+2 elevado a 12 -2 = 4093 host
