@@ -67,3 +67,11 @@ d. 126 subredes con 1022 hosts (2^31 - 2 subredes posibles, cada una con 2 direc
 ¿Cuál será la máscara que permita la mayor cantidad de host?
 
 c. 255.240.0.0. Esta máscara permitirá cuatro subredes iniciales y el crecimiento futuro de una subred por año durante los próximos cuatro años, y permitirá la mayor cantidad de hosts por subred.
+
+
+
+En este caso la máscara de red es: 255.255.255.240
+#12 . A partir de la dirección IP 172.18.71.2 /21 , ¿cuál es la dirección de subred y 
+de broadcast a la que pertenece el host?
+
+d. dirección = 172.18.64.0, broadcast 172.18.71.255
