@@ -45,3 +45,10 @@ B. 01011001.11001010.11100001.01100111
 E. 10011111.01001011.00111111.00101011
 
 Las IPs de clase B tienen un rango de dirección de red de 128.0.0.0 a 191.255.255.255
+
+
+
+#8. Se tiene una dirección IP 172.17.111.0 máscara 255.255.254.0, ¿cuantas 
+subredes y cuantos host validos habrá por subred?
+
+c. 126 subredes con 510 hosts (2^23 - 2 subredes posibles, cada una con 510 direcciones IP válidas: 508 para hosts y 2 para la dirección de red y la dirección de broadcast).
