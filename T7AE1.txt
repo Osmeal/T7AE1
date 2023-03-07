@@ -7,3 +7,12 @@ C. 255.255.252.0
 
 2 elevado a 6 = 64 subredes
 2 elevado a 10 -2 = 1022 host
+
+
+
+#2 . Usted planea la migración de 100 ordenadores de IPX/SPX a TCP/IP y que 
+puedan establecer conectividad con Internet. Su ISP le ha asignado la dirección IP 
+192.168.16.0/24. Se requieren 10 Subredes con 10 hosts cada una. ¿Qué máscara
+de subred debe utilizarse?
+
+C. 255.255.255.240
