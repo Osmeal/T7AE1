@@ -91,3 +91,9 @@ los próximos años ¿Qué máscara se deberá utilizar para obtener un total de
 host por subred?
 
 a. /19 que permitiría hasta 8190 hosts por subred, lo que es más que suficiente para 2000 hosts por subred.
+
+
+
+#15. Cuáles de las siguientes máscaras de red equivale a: /24
+
+d. 255.255.255.0
