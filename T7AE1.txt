@@ -28,3 +28,13 @@ se deberá utilizar si se pretende tener 2500 host por subred?
 B.255.255.240.0
 
 2 elevado a 12 -2 = 4093 host
+
+
+#5. ¿Cuáles de las siguientes subredes no pertenece a la misma red si se ha 
+utilizado la máscara de subred 255.255.224.0?
+
+C. 172.16.64.42
+
+Los primeros bits de red 1010 1100.0001 0000.00
+
+
