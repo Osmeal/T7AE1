@@ -59,3 +59,11 @@ c. 126 subredes con 510 hosts (2^23 - 2 subredes posibles, cada una con 510 dire
 ¿cuántas subredes y cuantos host validos habrá por subred?
 
 d. 126 subredes con 1022 hosts (2^31 - 2 subredes posibles, cada una con 2 direcciones IP válidas: una para la dirección de red y otra para la dirección de broadcast).
+
+
+
+#10. Usted está designando un direccionamiento IP para cuatro subredes con la red 
+10.1.1.0, se prevé un crecimiento de una red por año en los próximos cuatro años. 
+¿Cuál será la máscara que permita la mayor cantidad de host?
+
+c. 255.240.0.0. Esta máscara permitirá cuatro subredes iniciales y el crecimiento futuro de una subred por año durante los próximos cuatro años, y permitirá la mayor cantidad de hosts por subred.
