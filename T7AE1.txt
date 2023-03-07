@@ -97,3 +97,10 @@ a. /19 que permitiría hasta 8190 hosts por subred, lo que es más que suficient
 #15. Cuáles de las siguientes máscaras de red equivale a: /24
 
 d. 255.255.255.0
+
+
+
+#16. A partir de la dirección IP 192.168.85.129 /26 , ¿Cuál es la dirección de 
+subred y de broadcast a la que pertenece el host?
+
+d. dirección = 192.168.85.128, broadcast 192.168.85.191
